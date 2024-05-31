@@ -33,7 +33,7 @@ Create help topics to categorize common issues, making it easier for users to su
 <h2>Configuration Steps</h2>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
 </p>
 <p>
   1. Configure Roles:
@@ -65,11 +65,15 @@ Objective: Set ticket creation permissions for users.
 Process:
 Navigated to Admin Panel -> Settings -> User Settings.
 Set Registration Required to "Require registration and login to create tickets."
+
+![image](https://github.com/iyke85/OsTicket-Post-Installation/assets/159981310/0bda7e00-fd66-4ad9-bdb9-49f2dd327995)
+
+
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
 </p>
 <p>
 
@@ -82,6 +86,8 @@ Added two agents:
 Jane
 John
 
+![image](https://github.com/iyke85/OsTicket-Post-Installation/assets/159981310/5677cf07-364b-43fc-8760-fd618857c71c)
+
 6. Configure Users (Customers):
 Objective: Add users who will be submitting tickets.
 
@@ -90,6 +96,11 @@ Navigated to Agent Panel -> Users -> Add New.
 Added two users:
 Karen
 Ken
+
+![image](https://github.com/iyke85/OsTicket-Post-Installation/assets/159981310/0db86556-ff5c-4876-90f7-f6c12f643146)
+![image](https://github.com/iyke85/OsTicket-Post-Installation/assets/159981310/5714e4e1-75cc-4fb9-a1ae-c8c21fb6edea)
+
+
 
 7. Configure SLAs (Service Level Agreements):
 Objective: Define response and resolution times for different types of tickets.
@@ -100,6 +111,9 @@ Created three SLA plans:
 Sev-A: 1 hour, 24/7
 Sev-B: 4 hours, 24/7
 Sev-C: 8 hours, business hours
+
+![image](https://github.com/iyke85/OsTicket-Post-Installation/assets/159981310/5c779a70-2654-45d6-a868-ce6ee9aa7dd6)
+
 
 8. Configure Help Topics:
 Objective: Categorize common issues to streamline ticket submission.
@@ -112,11 +126,14 @@ Personal Computer Issues
 Equipment Request
 Password Reset
 
+![image](https://github.com/iyke85/OsTicket-Post-Installation/assets/159981310/1b186c8d-7688-4a55-9605-16014801ed0e)
+
+
+
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
                                                Summary
